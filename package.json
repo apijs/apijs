@@ -1,0 +1,34 @@
+{
+  "name": "apijs",
+  "version": "0.1.0",
+  "description": "前端api接口管理",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apijs/apijs.git"
+  },
+  "keywords": [
+    "apijs",
+    "mock",
+    "ajax"
+  ],
+  "contributors": [
+    {
+      "name": "xuexb",
+      "email": "fe.xiaowu@gmail.com"
+    }
+  ],
+  "author": {
+    "name": "xuexb",
+    "email": "fe.xiaowu@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apijs/apijs/issues"
+  },
+  "homepage": "https://github.com/apijs/apijs#readme",
+  "dependencies": {
+    "apijs-admin": "^0.0.1"
+  }
+}
