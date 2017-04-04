@@ -29,6 +29,21 @@
   },
   "homepage": "https://github.com/apijs/apijs#readme",
   "dependencies": {
-    "apijs-admin": "^0.0.1"
+    "apijs-admin": "^0.0.1",
+    "art-template": "^3.1.3",
+    "babel-runtime": "^6.23.0",
+    "body-parser": "^1.17.1",
+    "commander": "^2.9.0",
+    "express": "^4.15.2",
+    "marked": "^0.3.6",
+    "mockjs": "^1.0.1-beta3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.0",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-es2015": "^6.24.0",
+    "babel-preset-stage-0": "^6.22.0",
+    "babel-preset-stage-3": "^6.22.0",
+    "fecs": "^1.2.2"
   }
 }
